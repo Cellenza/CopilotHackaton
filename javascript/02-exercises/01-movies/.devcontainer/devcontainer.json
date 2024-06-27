@@ -1,0 +1,14 @@
+{
+    "image": "node:20",
+//    "postCreateCommand": "npm install -g @angular/cli@17",
+    "customizations": {
+        "vscode": {
+            "extensions" : [
+                "github.copilot",
+                "Angular.ng-template",
+                "ms-vscode.vscode-typescript-next",
+                "ecmel.vscode-html-css"
+            ]
+        }
+    }
+}
