@@ -1,0 +1,100 @@
+[
+    {
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "year": 2010,
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "year": 1972,
+        "genres": ["Crime", "Drama"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "year": 1994,
+        "genres": ["Crime", "Drama"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "year": 1994,
+        "genres": ["Drama"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "year": 2008,
+        "genres": ["Action", "Crime", "Drama"],
+        "imageURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqcpqhaK1wmRY_5VkGqmO-S1WCzdvoyUpQOsy_xvXkedkdn-xH"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "director": "Peter Jackson",
+        "year": 2003,
+        "genres": ["Action", "Adventure", "Drama"],
+        "imageURL": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZMm_T2iSSwSJt5WNT45zMEloPRpCWEdppAqCUDiRsJx06JH9s"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "director": "Peter Jackson",
+        "year": 2001,
+        "genres": ["Action", "Adventure", "Drama"],
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrPYBWNct4YCZCs-Ktj1UjKK2MWWZuP3NG7YJ1otFdhQv3gZ2"
+    },
+    {
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "year": 2014,
+        "genres": ["Adventure", "Drama", "Sci-Fi"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+    },
+    {
+        "title": "Parasite",
+        "director": "Bong Joon-ho",
+        "year": 2019,
+        "genres": ["Comedy", "Drama", "Thriller"],
+        "imageURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTVsPLpANO8gy6kzpUWyo9_Agx5jBiPMroLKdTTfuzIqw8sgz_"
+    },
+    {
+        "title": "The Matrix",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "year": 1999,
+        "genres": ["Action", "Sci-Fi"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "director": "Peter Jackson",
+        "year": 2002,
+        "genres": ["Action", "Adventure", "Drama"],
+        "imageURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQskuRwDUSBxpaxtowJJEbwSEuzv9D2R5ehcju0lljFKRgaJuj"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "director": "Christopher Nolan",
+        "year": 2012,
+        "genres": ["Action", "Adventure", "Drama"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg"
+    },
+    {
+        "title": "The Godfather Part II",
+        "director": "Francis Ford Coppola",
+        "year": 1974,
+        "genres": ["Crime", "Drama"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "director": "Anthony Russo, Joe Russo",
+        "year": 2019,
+        "genres": ["Action", "Adventure", "Drama"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg"
+    }
+]
