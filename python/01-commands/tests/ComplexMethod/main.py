@@ -1,6 +1,6 @@
 from search_in_directory import SearchInDirectory
 
-reverse_dictionary = SearchInDictionary()
+reverse_dictionary = SearchInDirectory()
 
 dimensions = {
     "1.0.5.6": 5,

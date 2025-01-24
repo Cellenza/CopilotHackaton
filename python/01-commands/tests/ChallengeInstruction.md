@@ -1,52 +1,56 @@
 # Challenge instructions for `/tests` command
 
-## Step 1: Generate tests for `Year.cs`
+## Step 1: Generate tests for `year.py`
 
 ### Instructions
-![alt text](images/image-8.png)
 
-1. Open the `Year.cs` file in the `LeapYearsKata` solution.
-2. Press `alt + :` with the cursor on the class name.
-3. Type `/tests` and press enter.
+![alt text](image.png)
 
-*Note: You can specify xunit as the testing framework.*
-
-### Observations
-![alt text](images/image-7.png)
-
-To note:
-1. Copilot should propose to write the answer in a new file.
-2. Check the generated tests and see if they fit with the code you are reading.
-
-## Step 2: Generate tests for `Number.cs`
-
-### Instructions
-![alt text](images/image-9.png)
-
-1. Open the `Number.cs` file in the `SumOfDigits` solution.
-2. Press `alt + :` with the cursor on the class name.
+1. Open the `year.py` file in the folder `LeapYearsKata`.
+2. In VS Code, press `ctrl + i` with the cursor on the class name.
 3. Type `/tests` and press enter.
 
 ### Observations
-![alt text](images/image-10.png)
+
+![alt text](image-1.png)
 
 To note:
-1. Copilot should propose to write the answer in a new file.
+
+1. Copilot should ask you for the testing framewrok to use and further configuration if you never did before.
+2. It proposes to write the answer in a new file.
+3. Check the generated tests and see if they fit with the code you are reading.
+
+## Step 2: Generate tests for `number.py`
+
+### Instructions
+
+![alt text](image-2.png)
+
+1. Open the `number.py` file in the folder `SumOfDigitsKata`.
+2. In VS Code, press `ctrl + i` with the cursor on the class name.
+3. Type `/tests` and press enter.
+
+### Observations
+
+To note:
+
+1. It proposes to write the answer in a new file.
 2. Check the generated tests and see if they fit with the code you are reading.
 
-## Step 3: Generate tests for `Number.cs` using a template
+## Step 3: Generate tests for `number.py` using a template
 
 ### Instructions
 *Open a new chat*
-![alt text](images/image-11.png)
 
-1. Open the `Number.cs` file in the `SumOfDigits` folder.
-2. Press `alt + :` with the cursor on the class name.
-3. Type `/tests` and specify that you want to use the file `NumberTestTemplate1` as a template.
+![alt text](image-3.png)
+
+1. Open the `number.py` file in the folder `SumOfDigitsKata`.
+2. In VS Code, press `ctrl + i` with the cursor on the class name.
+3. Type `/tests` and specify that you want to use the file `number_test_template_1.py` as a template.
 
 ### Observations
 1. The proposed results should be different from step 2.
-2. Redo the same experiment but with `NumberTestTemplate2.cs` open and check the response difference.
+2. Redo the same experiment but with `number_test_template_2.py` open and check the response difference.
 
 *Note: Copilot is good at replicating templates. Giving it examples to work on improves the output quality.*
 
@@ -54,11 +58,18 @@ To note:
 
 ### Instructions
 
-1. Generate test for the method `Execute` in `SearchInDictionary.cs`
-2. Save the generated file under ``SearchInDictionaryTestsStep1.cs``
-3. Replace `VerifyIpAddress` call in Execute by `VerifyIpAddressSimple`
-4. Generate test for the method `Execute` in `SearchInDictionary.cs`
-5. Compare ``SearchInDictionaryTestsStep1.cs`` with the previous result
+Here is the modified version using Python files:
+
+1. Generate a test for the execute method in search_in_dictionary.py.
+2. Save this test as search_in_dictionary_tests_step1.py.
+
+3. Replace the verify_ip_address call in execute with verify_ip_address_simple.
+
+![alt text](image-4.png)
+
+4. Regenerate the test for execute in search_in_dictionary.py.
+
+5. Compare search_in_dictionary_tests_step1.py with the new result.
 
 ### Observations
 
