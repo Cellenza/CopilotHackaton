@@ -1,0 +1,20 @@
+{
+  "name": "sourcecode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "module": "^1.2.5",
+    "semaphore-async-await": "^1.5.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
